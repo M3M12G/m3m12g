@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3m12g&show_icons=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3m12g&layout=compact&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<h3 align="center">My Profile Stats</h3>
+<a href="https://github.com/m3m12g">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=m3m12g&show_icons=true&theme=material-palenight&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/m3m12g">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3m12g&layout=compact&show_icons=true&theme=material-palenight" />
 </a>
 
