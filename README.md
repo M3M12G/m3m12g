@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Magauiya Mazhit</h1>
-<h3 align="center">A passionate developer who started out programmer path due to game bug</h3>
+[![MasterHead](![image](https://user-images.githubusercontent.com/57912482/122811788-b70e0500-d2f2-11eb-9a07-1edf6c54d810.png)
+)](https://github.com/m3m12g)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3m12g&label=Profile%20views&color=0e75b6&style=flat" alt="m3m12g" /> </p>
 
